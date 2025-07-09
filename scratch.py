@@ -1,4 +1,3 @@
-this is just a test
 import csv
 
 def nationProfile(climate,geographicFeatures,resources,trait,additional):
